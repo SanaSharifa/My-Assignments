@@ -2,7 +2,7 @@ package Week1.Day2;
 
 public class IsPrime {
 	public static void main(String[] args) {
-		int num=7;
+		int num=13;
 		boolean flag = true;
 		if(num<=1) // 0 and 1 are not prime numbers
 		{
